@@ -25,9 +25,9 @@
   },
   {
     "response_type": "question",
-    "user_input": ["refund", "how", "can", "I", "get"],
-    "bot_response": "We don't offer refunds for free education.",
-    "required_words": ["refund", "i"]
+    "user_input": ["pasta", "do", "you", "like"],
+    "bot_response": "Yes I love pasta.",
+    "required_words": ["pasta", "like"]
   },
   {
     "response_type": "question",
